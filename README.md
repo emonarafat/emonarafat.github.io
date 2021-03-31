@@ -1,8 +1,8 @@
 ### Hey 👋, I'm Yaseer Arafat
 [![](https://vistr.dev/badge?repo=emonarafat.emonarafat&corners=square)](https://github.com/emonarafat/emonarafat)
 [![](https://img.shields.io/badge/-Yaseer%20Arafat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yaseerarafat/)](https://www.linkedin.com/in/yaseerarafat/)
-[![](https://img.shields.io/badge/-emonarafat-%23181717?style=flat-square&logo=facebook&logoColor=ffffff)](https://www.facebook.com/emon.arafat/)
-[![](https://img.shields.io/badge/-Yaseer%20Arafat-%23181717?style=flat-square&logo=upwork&logoColor=37A000)](https://www.upwork.com/o/profiles/users/~019243c0d9b337e319/)
+[![](https://img.shields.io/badge/-emonarafat-blue?style=flat-square&logo=facebook&logoColor=ffffff)](https://www.facebook.com/emon.arafat/)
+
 
 
 Expertise with Windows/Web-based front-end and back-end applications. E-commerce and website engineering,
