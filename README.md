@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Yaseer Arafat
 [![](https://vistr.dev/badge?repo=emonarafat.emonarafat&corners=square)](https://github.com/emonarafat/emonarafat)
-[![](https://img.shields.io/badge/-Nick%20Chapsas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yaseerarafat/)](https://www.linkedin.com/in/yaseerarafat/)
+[![](https://img.shields.io/badge/-Yaseer%20Arafat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yaseerarafat/)](https://www.linkedin.com/in/yaseerarafat/)
 
 
 Expertise with Windows/Web-based front-end and back-end applications. E-commerce and website engineering,
