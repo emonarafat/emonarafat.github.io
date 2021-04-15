@@ -34,6 +34,10 @@ development processes and methodologies.
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![emonaraft's github stats](https://github-readme-stats.vercel.app/api?username=emonarafat&show_icons=true&theme=dracula)
+[![emonaraft's github stats](https://github-readme-stats.vercel.app/api?username=emonarafat&&count_private=true&show_icons=true&theme=dracula)](https://github.com/emonarafat/emonarafat)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emonarafat&hide=java,html&show_icons=true&theme=dracula)](https://github.com/emonarafat/emonarafat)
+## Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emonarafat&repo=CommonExtensions&theme=dracula)](https://github.com/emonarafat/CommonExtensionss)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emonarafat&repo=ncovGlobalInfo&theme=dracula)](https://github.com/emonarafat/ncovGlobalInfo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emonarafat&repo=restsharp-serilog-auto&theme=dracula)](https://github.com/emonarafat/restsharp-serilog-auto)
 
-![emonaraft's github Most used](https://github-readme-stats.vercel.app/api/top-langs/?username=emonarafat&&hide=html&show_icons=true&theme=dracula)
