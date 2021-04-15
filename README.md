@@ -36,4 +36,4 @@ development processes and methodologies.
 
 ![emonaraft's github stats](https://github-readme-stats.vercel.app/api?username=emonarafat&show_icons=true&theme=dracula)
 
-![emonaraft's github Most used](https://github-readme-stats.vercel.app/api/top-langs/?username=emonarafat&show_icons=true&theme=dracula)
+![emonaraft's github Most used](https://github-readme-stats.vercel.app/api/top-langs/?username=emonarafat&&hide=html&show_icons=true&theme=dracula)
