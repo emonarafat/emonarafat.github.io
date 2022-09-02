@@ -66,6 +66,8 @@ development processes and methodologies.
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Angular](https://img.shields.io/badge/-Angular-dd0031?logo=angular)
+![ReactJs](https://img.shields.io/badge/-ReactJs-000000?logo=react)
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
@@ -100,6 +102,11 @@ development processes and methodologies.
 ![Microsoft Report(.rdlc)](https://img.shields.io/badge/Microsoft_Report(.rdlc)-0078D7?style=flat&logo=Microsoft_Report(.rdlc)&logoColor=white)
 ![Crystal Report](https://img.shields.io/badge/Crystal_Report-0078D7?style=flat&logo=Crystal_Report&logoColor=white)
 
+###### AWS
+![AWS_LAMBDA](https://img.shields.io/badge/-Lambda-d9660b?logo=awslambda&logoColor=white)
+![AWS_SQS](https://img.shields.io/badge/AWS-SQS-d9660b?logo=awssqs&logoColor=white)
+![AWS_SNS](https://img.shields.io/badge/AWS-SNS-d9660b?logo=awssns&logoColor=white)
+![AWS_STEP_FUNCTION](https://img.shields.io/badge/AWS-STEP_FUNCTIONS-d9660b?logo=awsstepfunction&logoColor=white)
 ###### Azure Cloud
 ![Microsoft_Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
 ![Azure Active Directory(AAD)](https://img.shields.io/badge/Azure_Active_Directory_(AAD)-0078D7?style=flat&logo=Azure&logoColor=white)
