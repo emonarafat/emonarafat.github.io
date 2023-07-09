@@ -1,6 +1,6 @@
 
 # 💫About Me :
-## Hey 👋, I'm Yaseer Arafat
+## Hey 👋, I'm Yaseer Arafat  <div align = 'right'>![](https://komarev.com/ghpvc/?username=emonarafat&color=blue)</div>
 
 ## 🌐Socials
 [![](https://vistr.dev/badge?repo=emonarafat.emonarafat&corners=square)](https://github.com/emonarafat/emonarafat)
