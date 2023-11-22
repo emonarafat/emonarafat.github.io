@@ -17,13 +17,13 @@ I am currently open to new opportunities as a senior software engineer, senior s
 
 Some additional sentences are:
 
-I hope you enjoyed reading my bio and found it informative and engaging.
-I look forward to hearing from you and connecting with you on LinkedIn.
-I appreciate your feedback and suggestions on how I can improve my bio.
+- I hope you enjoyed reading my bio and found it informative and engaging.
+- I look forward to hearing from you and connecting with you on LinkedIn.
+- I appreciate your feedback and suggestions on how I can improve my bio.
 
 👉 Microservices Eco System with MS SQL, CQRS-RabbitMQ, Hangfire , and container orchestration (Docker, kubernetes)
 
-👉 NET Core Web Development - Razor Pages, MVC, Blazor(We assembly, server app)
+👉 NET Core Web Development - Razor Pages, MVC, Blazor(Webassembly, server app, .net aspire)
 
 👉 CentoOS 8, nginx hosting and reverse proxy ,Let's Encrypt SSL (certbot).
 
