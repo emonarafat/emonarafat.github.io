@@ -9,22 +9,17 @@
 [![](https://img.shields.io/badge/-Yaseer%20Arafat-black?style=for-the-badge&logo=upwork&logoColor=37A000)](https://www.upwork.com/o/profiles/users/~019243c0d9b337e319/)
 
 
-Expertise with Windows/Web-based front-end and back-end applications. E-commerce and website engineering,
-development and operation. Comprehensive knowledge of Business-to-business and Business-to-individual
-Applications and strategies, Internet/Intranet technologies, such as client/server, order entry, shopping cart,
-portals and other interactive programming.
+I am a software engineer with 14 years of experience in C#, .NET, and web development. I have worked on various projects involving ASP.NET Core, React.js, AngularJS, AWS, Node.js, GraphQL, and other technologies. I have also led and managed engineering teams, implemented best practices and standards, and ensured quality and safety of engineering processes and products.
 
-Accomplish goals through people. Use people skills to build group involvement, generate enthusiasm, and
-increase participation. Willing to help others in need. Excellent leadership potential in the areas of coaching and
-facilitating. One who knows that the success of a project is not based on a single person, but on the collaborative
-team effort.
+I am passionate about learning new skills and technologies, solving challenging problems, and creating innovative solutions. I am also interested in sharing my knowledge and experience with others, and I have been involved in some volunteering and mentoring activities.
 
-Mix well both on and off job. As manager, use people skills to build group involvement and create participation
-from group. Encourage openness and trust.
+I am currently open to new opportunities as a senior software engineer, senior software development engineer, or team lead. I am also available for IT consulting and web development services. If you are interested in working with me or learning more about me, please feel free to contact me or visit my profile. Thank you for your time and attention. 😊
 
-Experience in commercial development of the large enterprise level software systems for many years in Telecom,
-HR Services, Collaboration Tools, e-Learning and other areas with Agile (Scrum) and Waterfall software
-development processes and methodologies.
+Some additional sentences are:
+
+I hope you enjoyed reading my bio and found it informative and engaging.
+I look forward to hearing from you and connecting with you on LinkedIn.
+I appreciate your feedback and suggestions on how I can improve my bio.
 
 👉 Microservices Eco System with MS SQL, CQRS-RabbitMQ, Hangfire , and container orchestration (Docker, kubernetes)
 
