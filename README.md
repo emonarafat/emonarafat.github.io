@@ -1,6 +1,6 @@
 
 # 💫About Me :
-## Hey 👋, I'm Yaseer Arafat  <div align = 'right'>![](https://komarev.com/ghpvc/?username=emonarafat&color=blue)</div>
+## Hey 👋, I'm Yaseer Arafat  <p align = 'right'>![](https://komarev.com/ghpvc/?username=emonarafat&color=blue)![Years Badge](https://badges.pufler.dev/years/emonarafat?&style=flat&color=black&labelColor=purple) ![Repos Badge](https://badges.pufler.dev/repos/emonarafat?&style=flat&color=black&labelColor=indigo)</p>
 
 ## 🌐Socials
 [![](https://vistr.dev/badge?repo=emonarafat.emonarafat&corners=square)](https://github.com/emonarafat/emonarafat)
@@ -37,6 +37,11 @@ Some additional sentences are:
 ![C#](https://img.shields.io/badge/-c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-007ACC?style=for-the-badge&logo=JavaScript&logoColor=white)
+
+###### Domain
+![Monolithic](https://img.shields.io/badge/Monolithic-0078D7?style=flat&logo=Monolithic&logoColor=white)
+![REST](https://img.shields.io/badge/REST-0078D7?style=flat&logo=REST&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-0078D7?style=flat&logo=Microservices&logoColor=white)
 
 ###### Microsoft Stack
 ![NET](https://img.shields.io/badge/Microsoft.NET-0078D7?style=for-the-badge&logo=dotnet)
@@ -155,10 +160,11 @@ Some additional sentences are:
 ![FTP](https://img.shields.io/badge/FTP-0078D7?style=for-the-badge&logo=REST&logoColor=white)
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=emonarafat&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=emonarafat&theme=radical&hide_border=false)<br/>
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=emonarafat&hide=java,html,groff&show_icons=true&theme=dracula&layout=compact&&count_private=true&langs_count=10)](https://github.com/emonarafat/emonarafat)
+![](https://github-readme-stats.vercel.app/api?username=emonarafat&show_icons=true&count_private=true&include_all_commits=true&theme=highcontrast&bg_color=0,000000,130F40) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=emonarafat&theme=midnight-purple&fire=yellow&currStreakLabel=red&currStreakNum=red&hide_border=true) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=emonarafat&layout=compact&theme=highcontrast&bg_color=0,000000,130F40&margin-w=200) 
+
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=emonarafat&row=1&column=7&theme=onedark)
   
-![emonarafat's github activity graph](https://activity-graph.herokuapp.com/graph?username=emonarafat&theme=compact)
+
