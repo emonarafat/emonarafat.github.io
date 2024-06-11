@@ -1,6 +1,6 @@
 
 # 💫About Me :
-## Hey 👋, I'm Yaseer Arafat  <p align = 'right'>![](https://komarev.com/ghpvc/?username=emonarafat&color=blue)![Years Badge](https://badges.pufler.dev/years/emonarafat?&style=flat&color=black&labelColor=purple) ![Repos Badge](https://badges.pufler.dev/repos/emonarafat?&style=flat&color=black&labelColor=indigo)</p>
+## Hey 👋, I'm Yaseer Arafat  <p align = 'right'>![](https://komarev.com/ghpvc/?username=emonarafat&color=blue)![Years Badge](https://badges.pufler.dev/years/emonarafat?&style=flat&color=black&labelColor=purple) ![Repos Badge](https://badges.pufler.dev/repos/emonarafat?&style=flat&color=black&labelColor=indigo)![Commits Badge](https://badges.pufler.dev/commits/yearly/emonarafat?&style=flat&color=black&labelColor=magenta)</p>
 
 ## 🌐Socials
 [![](https://vistr.dev/badge?repo=emonarafat.emonarafat&corners=square)](https://github.com/emonarafat/emonarafat)
