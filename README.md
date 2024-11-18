@@ -1,13 +1,14 @@
 
 # 💫About Me :
-## Hey 👋, I'm Yaseer Arafat  <p align = 'right'>![](https://komarev.com/ghpvc/?username=emonarafat&color=blue)![Years Badge](https://badges.pufler.dev/years/emonarafat?&style=flat&color=black&labelColor=purple) ![Repos Badge](https://badges.pufler.dev/repos/emonarafat?&style=flat&color=black&labelColor=indigo)![Commits Badge](https://badges.pufler.dev/commits/monthly/emonarafat?&style=flat&color=black&labelColor=magenta)</p>
+## 👋 Hi there, I'm Yaseer Arafat  <p align = 'right'>![](https://komarev.com/ghpvc/?username=emonarafat&color=blue)![Years Badge](https://badges.pufler.dev/years/emonarafat?&style=flat&color=black&labelColor=purple) ![Repos Badge](https://badges.pufler.dev/repos/emonarafat?&style=flat&color=black&labelColor=indigo)![Commits Badge](https://badges.pufler.dev/commits/monthly/emonarafat?&style=flat&color=black&labelColor=magenta)</p>
 
 
-## 🌐Socials
-[![](https://vistr.dev/badge?repo=emonarafat.emonarafat&corners=square)](https://github.com/emonarafat/emonarafat)
-[![](https://img.shields.io/badge/-Yaseer%20Arafat-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yaseerarafat/)](https://www.linkedin.com/in/yaseerarafat/)
-[![](https://img.shields.io/badge/-Yaseer%20Arafat-blue?style=for-the-badge&logo=facebook&logoColor=ffffff)](https://www.facebook.com/emon.arafat/)
-[![](https://img.shields.io/badge/-Yaseer%20Arafat-black?style=for-the-badge&logo=upwork&logoColor=37A000)](https://www.upwork.com/o/profiles/users/~019243c0d9b337e319/)
+**Connect with me:**
+
+[![Upwork](https://img.shields.io/badge/-Upwork-6FDA44?logo=upwork&logoColor=white&style=flat-square)](https://www.upwork.com/freelancers/~019243c0d9b337e319)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/yaseerarafat)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=flat-square)](https://www.facebook.com/emon.arafat)
+
 
 
 ---
