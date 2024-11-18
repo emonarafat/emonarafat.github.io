@@ -10,162 +10,107 @@
 [![](https://img.shields.io/badge/-Yaseer%20Arafat-black?style=for-the-badge&logo=upwork&logoColor=37A000)](https://www.upwork.com/o/profiles/users/~019243c0d9b337e319/)
 
 
-I am a software engineer with 14 years of experience in C#, .NET, and web development. I have worked on various projects involving ASP.NET Core, React.js, AngularJS, AWS, Node.js, GraphQL, and other technologies. I have also led and managed engineering teams, implemented best practices and standards, and ensured quality and safety of engineering processes and products.
+---
 
-I am passionate about learning new skills and technologies, solving challenging problems, and creating innovative solutions. I am also interested in sharing my knowledge and experience with others, and I have been involved in some volunteering and mentoring activities.
+🔥 **Passionate Developer**: Transforming ideas into elegant solutions, I specialize in backend development with intricate C# solutions that enhance APIs and backend systems for seamless integration.
 
-I am currently open to new opportunities as a senior software engineer, senior software development engineer, or team lead. I am also available for IT consulting and web development services. If you are interested in working with me or learning more about me, please feel free to contact me or visit my profile. Thank you for your time and attention. 😊
+🔍 **Backend Expertise**: Master of ASP.NET and Node.js, turning data into valuable insights. Using SQL Server, Entity Framework, and MongoDB to handle data with finesse.
 
-Some additional sentences are:
+☁️ **Cloud Conjurer**: Skilled in creating and managing virtual environments on AWS, Azure, and Google Cloud. Designing serverless architectures and implementing efficient cloud solutions, including AWS Lambda and Azure Serverless.
 
-- I hope you enjoyed reading my bio and found it informative and engaging.
-- I look forward to hearing from you and connecting with you on LinkedIn.
-- I appreciate your feedback and suggestions on how I can improve my bio.
+🌐 **API Artisan**: Crafting secure, high-performance APIs with RESTful principles and top-notch security. Ensuring seamless communication and integration.
 
-👉 Microservices Eco System with MS SQL, CQRS-RabbitMQ, Hangfire , and container orchestration (Docker, kubernetes)
+🎨 **Front-End Proficiency**: Proficient in HTML, CSS, JavaScript, Angular, React, Next.js, and Tailwind CSS. Creating responsive and high-performance web applications that users love.
 
-👉 NET Core Web Development - Razor Pages, MVC, Blazor(Webassembly, server app, .net aspire)
+🌟 **Team Dynamo**: Leading development teams with empathy and innovation. Driving project success through effective communication and collaboration.
 
-👉 CentoOS 8, nginx hosting and reverse proxy ,Let's Encrypt SSL (certbot).
+🤖 **AI Tools Enthusiast**: Leveraging AI tools like ChatGPT for natural language processing, Cursor IDE for intelligent code completion, and Rider for efficient software development. Utilizing CI/CD pipelines to automate testing and deployment, ensuring continuous integration and delivery.
 
-👉 Good command over web based payment gateway integration .
+📦 **Linux & DevOps Expertise**: Extensive experience with CentOS, Nginx, and Linux environments. Proficient in container orchestration with Kubernetes and infrastructure as code using AWS CloudFormation.
 
-🎯 I offer quality and speed with excessive skills for UI/UX, and you can expect great communication and support for your business.
+🔮 **Always Innovating**: Forever curious and constantly seeking new challenges. Ready to connect with fellow tech enthusiasts and industry leaders to create groundbreaking solutions and tackle complex problems.
 
-# 💻Tech Stack Tools and Technologies :
+🚀 **Current Projects**: Working on diverse projects, from backend systems to full-stack applications. Always exploring new technologies and pushing the boundaries of what's possible.
 
-###### 🚀 Skills
-![C#](https://img.shields.io/badge/-c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-007ACC?style=for-the-badge&logo=JavaScript&logoColor=white)
+---
 
-###### Domain
-![Monolithic](https://img.shields.io/badge/Monolithic-0078D7?style=flat&logo=Monolithic&logoColor=white)
-![REST](https://img.shields.io/badge/REST-0078D7?style=flat&logo=REST&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-0078D7?style=flat&logo=Microservices&logoColor=white)
+**GitHub Stats**:
 
-###### Microsoft Stack
-![NET](https://img.shields.io/badge/Microsoft.NET-0078D7?style=for-the-badge&logo=dotnet)
-![net6](https://img.shields.io/badge/-net6-239120?style=for-the-badge&logo=c-sharp)
-![ASP.NET MVC 5](https://img.shields.io/badge/ASP.NET_MVC_5-0078D7?style=for-the-badge&logo=c-sharp)
-![ASP.NET Core 3.0](https://img.shields.io/badge/ASP.NET_Core_3.0-0078D7?style=for-the-badge&logo=c-sharp)
-![ASP.NET Core 6.0](https://img.shields.io/badge/ASP.NET_Core_6.0-0078D7?style=for-the-badge&logo=c-sharp)
-![API](https://img.shields.io/badge/ASP.NET_Core_Web_API-0078D7?style=for-the-badge&logo=c-sharp)
-![MINIMALAPI](https://img.shields.io/badge/ASP.NET_Core_MINIMAL_API-0078D7?style=for-the-badge&logo=c-sharp)
-######  ⚡ Database/ORM/Data Access Technology
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![ADO.NET](https://img.shields.io/badge/ADO.NET-0078D7?style=for-the-badge&logo=ado&logoColor=white)
-![Dapper](https://img.shields.io/badge/Dapper-0078D7?style=for-the-badge&logo=Dapper&logoColor=white)
-![LINQ](https://img.shields.io/badge/LINQ-0078D7?style=for-the-badge&logo=LINQ&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-0078D7?style=for-the-badge&logo=Lambda&logoColor=white)
-![Entity Framework Core(Code First, Database First)](https://img.shields.io/badge/Entity_Framework_Core(Code_First,_Database_First)-0078D7?style=for-the-badge&logo=efcore&logoColor=white)
-![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D7?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emonarafat&show_icons=true&theme=radical)
 
-###### Front-End
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Angular](https://img.shields.io/badge/-Angular-dd0031?logo=angular&style=for-the-badge)
-![ReactJs](https://img.shields.io/badge/-ReactJs-000000?logo=react&style=for-the-badge)
-![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-![Razor](https://img.shields.io/badge/Razor-0078D7?style=for-the-badge&logo=Razor&logoColor=white)
+**Top Languages**:
 
-![Blazor](https://img.shields.io/badge/Blazor_(Server_Side_&_Web_Assembly)-0078D7?style=for-the-badge&logo=Blazor&logoColor=white)
-![MudBlazor](https://img.shields.io/badge/MudBlazor-0078D7?style=for-the-badge&logo=Blazor&logoColor=white)
-![Blazor Syncfusion](https://img.shields.io/badge/Blazor_Syncfusion-0078D7?style=for-the-badge&logo=Blazor&logoColor=white)
-![Blazorstrap](https://img.shields.io/badge/Blazorstrap-0078D7?style=for-the-badge&logo=Blazor&logoColor=white)
-![Blazored](https://img.shields.io/badge/Blazored-0078D7?style=for-the-badge&logo=Blazor&logoColor=white)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emonarafat&layout=compact&theme=radical)
 
-###### Source Controls
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-![Azure_DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+---
 
-###### Project Management & CI/CD
-![Azure_DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+**Tech Stack**:
 
-###### Payment Gateway Integration
-![Stripe](https://img.shields.io/badge/Stripe-0078D7?style=for-the-badge&logo=Stripe&logoColor=white)
-![PayPal](https://img.shields.io/badge/PayPal-0078D7?style=for-the-badge&logo=PayPal&logoColor=white)
+**Programming Languages:**
 
-###### Reporting Tools / Data Visualization
-![HTML Report](https://img.shields.io/badge/HTML_Report-0078D7?style=for-the-badge&logo=HTML_Report&logoColor=white)
-![SSRS](https://img.shields.io/badge/SSRS-0078D7?style=for-the-badge&logo=SSRS&logoColor=white)
-![Microsoft Report(.rdlc)](https://img.shields.io/badge/Microsoft_Report(.rdlc)-0078D7?style=for-the-badge&logo=Microsoft_Report(.rdlc)&logoColor=white)
-![Crystal Report](https://img.shields.io/badge/Crystal_Report-0078D7?style=for-the-badge&logo=Crystal_Report&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 
-##  ☁ Cloud
+**Backend Technologies:**
 
-###### AWS
-![AWS_LAMBDA](https://img.shields.io/badge/AWS-Lambda-d9660b?style=for-the-badge&logo=awslambda&logoColor=white)
-![AWS_SQS](https://img.shields.io/badge/AWS-SQS-d9660b?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS_SNS](https://img.shields.io/badge/AWS-SNS-d9660b?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS_STEP_FUNCTION](https://img.shields.io/badge/AWS-STEP_FUNCTIONS-d9660b?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-5C2D91?logo=dotnet&logoColor=white&style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![.NET 8](https://img.shields.io/badge/-.NET%208-512BD4?logo=dotnet&logoColor=white&style=flat-square)
 
-###### Microsoft Azure Cloud
-![Microsoft_Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Azure Active Directory(AAD)](https://img.shields.io/badge/Azure_Active_Directory_(AAD)-0078D7?style=for-the-badge&logo=Azure&logoColor=white)
-![Azure Active Directory B2C (AAD B2C)](https://img.shields.io/badge/Azure_Active_Directory_B2C_(AAD_B2C)-0078D7?style=for-the-badge&logo=Azure&logoColor=white)
-![App Service](https://img.shields.io/badge/App_Service-0078D7?style=for-the-badge&logo=Azure&logoColor=white)
-![Azure_Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white)
-![Azure Hosting](https://img.shields.io/badge/Azure_Hosting-0078D7?style=for-the-badge&logo=Azure&logoColor=white)
-![Azure Web App](https://img.shields.io/badge/Azure_Web_App-0078D7?style=for-the-badge&logo=Azure&logoColor=white)
-![Azure API Management](https://img.shields.io/badge/Azure_API_Management-0078D7?style=for-the-badge&logo=Azure&logoColor=white)
-![Azure blob storage](https://img.shields.io/badge/Azure_Blob_Storage-0078D7?style=for-the-badge&logo=Azure&logoColor=white)
-![Virtual Machine](https://img.shields.io/badge/Virtual_Machine-0078D7?style=for-the-badge&logo=Azure&logoColor=white)
-![Azure Services](https://img.shields.io/badge/Azure_Services-0078D7?style=for-the-badge&logo=Azure&logoColor=white)
+**Databases:**
 
-###### 🔔 Tests
-![NUnit](https://img.shields.io/badge/NUnit-0078D7?style=for-the-badge&logo=NUnit&logoColor=white)
-![xUnit](https://img.shields.io/badge/xUnit-0078D7?style=for-the-badge&logo=xUnit&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white&style=flat-square)
 
-###### Others
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Microsoft_SQL_Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Notepad](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-0078D7?style=for-the-badge&logo=Insomnia&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Font_Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
-![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-0078D7?style=for-the-badge&logo=team&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Jira](	https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-![ASP.NET Core Identity](https://img.shields.io/badge/ASP.NET_Core_Identity-0078D7?style=for-the-badge&logo=REST&logoColor=white)
-![Dependency Injection](https://img.shields.io/badge/Dependency_Injection-0078D7?style=for-the-badge&logo=REST&logoColor=white)
-![Cookie Based Authentication](https://img.shields.io/badge/Cookie_Based_Authentication-0078D7?style=for-the-badge&logo=REST&logoColor=white)
-![Token Based Authentication(JWT)](https://img.shields.io/badge/Token_Based_Authentication(JWT)-0078D7?style=for-the-badge&logo=REST&logoColor=white)
-![Policy-Based authorization](https://img.shields.io/badge/Policy_Based_Authorization-0078D7?style=for-the-badge&logo=REST&logoColor=white)
-![Role-Based authorization](https://img.shields.io/badge/Role_Based_Authorization-0078D7?style=for-the-badge&logo=REST&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2-0078D7?style=for-the-badge&logo=REST&logoColor=white)
-![OpenID Connect](https://img.shields.io/badge/OpenID_Connect-0078D7?style=for-the-badge&logo=openid&logoColor=white)
-![IdentityServer](https://img.shields.io/badge/IdentityServer-0078D7?style=for-the-badge&logo=REST&logoColor=white)
-![Hangfire](https://img.shields.io/badge/Hangfire-0078D7?style=for-the-badge&logo=REST&logoColor=white)
-![Windows Scheduler](https://img.shields.io/badge/Windows_Scheduler-0078D7?style=for-the-badge&logo=REST&logoColor=white)
-![NLog](https://img.shields.io/badge/NLog-0078D7?style=for-the-badge&logo=REST&logoColor=white)
-![AutoMapper](https://img.shields.io/badge/AutoMapper-0078D7?style=for-the-badge&logo=REST&logoColor=white)
-![Data Annotation](https://img.shields.io/badge/Data_Annotation-0078D7?style=for-the-badge&logo=REST&logoColor=white)
-![IIS](https://img.shields.io/badge/IIS-0078D7?style=for-the-badge&logo=REST&logoColor=white)
-![SMTP](https://img.shields.io/badge/SMTP-0078D7?style=for-the-badge&logo=REST&logoColor=white)
-![FTP](https://img.shields.io/badge/FTP-0078D7?style=for-the-badge&logo=REST&logoColor=white)
+**Cloud Platforms:**
 
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=emonarafat&show_icons=true&count_private=true&include_all_commits=true&theme=highcontrast&bg_color=0,000000,130F40) 
-![](https://github-readme-streak-stats.herokuapp.com/?user=emonarafat&theme=midnight-purple&fire=yellow&currStreakLabel=red&currStreakNum=red&hide_border=true) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=emonarafat&layout=compact&theme=highcontrast&bg_color=0,000000,130F40&margin-w=200) 
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat-square)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat-square)
+![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-FF9900?logo=aws-lambda&logoColor=white&style=flat-square)
+![Azure Serverless](https://img.shields.io/badge/-Azure%20Serverless-0078D4?logo=microsoft-azure&logoColor=white&style=flat-square)
 
+**Front-End Technologies:**
 
-![trophy](https://github-profile-trophy.vercel.app/?username=emonarafat&row=1&column=7&theme=onedark)
-  
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat-square)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square)
 
+**AI & DevOps Tools:**
+
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-00A67E?logo=openai&logoColor=white&style=flat-square)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-3DDC84?logo=github-actions&logoColor=white&style=flat-square)
+
+**Linux & DevOps Tools:**
+
+![CentOS](https://img.shields.io/badge/-CentOS-262577?logo=centos&logoColor=white&style=flat-square)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=flat-square)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white&style=flat-square)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)
+![AWS CloudFormation](https://img.shields.io/badge/-AWS%20CloudFormation-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
+
+**Development Tools:**
+
+![Rider](https://img.shields.io/badge/-Rider-000000?logo=jetbrains&logoColor=white&style=flat-square)
+![Cursor IDE](https://img.shields.io/badge/-Cursor%20IDE-4B32C3?logo=visual-studio-code&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white&style=flat-square)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
+
+**Version Control Systems:**
+
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?logo=bitbucket&logoColor=white&style=flat-square)
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white&style=flat-square)
+
+---
+**Let's Connect!**  
+Feel free to explore my repositories and don't hesitate to reach out for collaboration or questions. Let's create something extraordinary together in the digital realm!
