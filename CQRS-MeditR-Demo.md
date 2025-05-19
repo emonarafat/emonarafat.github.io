@@ -1,9 +1,8 @@
-
 # Mastering CQRS with MediatR in .NET
 
-> â€œSeparation of concerns isnâ€™t just a principle â€” itâ€™s a power tool.â€
+> “Separation of concerns isn’t just a principle — it’s a power tool.”
 
-In this guide, youâ€™ll see how to implement **CQRS** using **MediatR** to build clean, scalable architecture for modern .NET applications.
+In this guide, you’ll see how to implement **CQRS** using **MediatR** to build clean, scalable architecture for modern .NET applications.
 
 ---
 
