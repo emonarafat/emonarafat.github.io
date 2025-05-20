@@ -1,1 +1,33 @@
-theme: jekyll-theme-architect
+title: My Awesome Site
+description: A portfolio and blog by emonarafat
+url: "https://emonarafat.github.io"
+baseurl: "" # leave blank if your site is at the root
+theme: minima
+
+author:
+  name: Yaseer Arafat
+  email: yaseer.arafat@live.com
+
+social:
+  github: emonarafat
+  twitter: emontwitts
+  linkedin: yaseerarafat
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+markdown: kramdown
+
+# google_analytics: "UA-XXXXXX-X"
+
+# Exclude these files/folders from the build
+exclude:
+  - README.md
+  - node_modules
+
+# Example navigation (if supported by your theme)
+# nav:
+#   - Home: /
+#   - Blog: /blog/
+#   - About: /about/
