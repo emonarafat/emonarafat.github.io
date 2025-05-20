@@ -28,5 +28,5 @@ exclude:
 # Example navigation (if supported by your theme)
 nav:
    - Home: /
- - Mastering CQRS with MediatR: /CQRS-MeditR-Demo
-  - Mastering CancellationToken: /Mastering_CancellationToken
+   - Mastering CQRS with MediatR: /CQRS-MeditR-Demo
+   - Mastering CancellationToken: /Mastering_CancellationToken
