@@ -1,8 +1,6 @@
 title: My Awesome Site
 description: A portfolio and blog by emonarafat
-url: "https://emonarafat.github.io"
-baseurl: "" # leave blank if your site is at the root
-theme: minima
+theme: jekyll-theme-architect
 
 author:
   name: Yaseer Arafat
