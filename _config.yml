@@ -26,7 +26,7 @@ exclude:
   - node_modules
 
 # Example navigation (if supported by your theme)
-# nav:
-#   - Home: /
-#   - Blog: /blog/
-#   - About: /about/
+nav:
+   - Home: /
+ - Mastering CQRS with MediatR: /CQRS-MeditR-Demo
+  - Mastering CancellationToken: /Mastering_CancellationToken
