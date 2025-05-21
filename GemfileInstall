@@ -1,7 +1,1 @@
-gem "dev-blog-theme"
-``` is a custom or third-party theme, you need to ensure it is available in your repository`
 
-- Then run:
-
-```bash
-bundle install
