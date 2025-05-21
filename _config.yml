@@ -8,8 +8,8 @@ baseurl: "" # Leave empty if deploying to root
 # Author settings
 author:
   name: Yaseer Arafat
-  email: yaseer@example.com
-  avatar: /assets/images/avatar.jpg
+  email: yaseer.arafat@live.com
+  avatar: https://github.com/emonarafat.png
   bio: Passionate about building scalable systems and sharing knowledge.
 
 # Social Links
