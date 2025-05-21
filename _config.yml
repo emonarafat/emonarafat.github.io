@@ -24,7 +24,7 @@ markdown: kramdown
 # Exclude these files/folders from the build
 exclude:
   - node_modules
-  - readme.md
+  - README.md
 
 # Example navigation (if supported by your theme)
 nav:
