@@ -1,45 +1,63 @@
+# Site settings
 title: Yaseer Arafat
-description: A portfolio and blog by emonarafat
-theme: jekyll-theme-primer
+description: >-
+  Software Engineer | .NET Developer | Blogging about CQRS, DDD, and AI
+url: "https://emonarafat.github.io" # Your website URL
+baseurl: "" # Leave empty if deploying to root
 
-# Author details
+# Author settings
 author:
   name: Yaseer Arafat
-  email: yaseer.arafat@live.com
+  email: yaseer@example.com
+  avatar: /assets/images/avatar.jpg
+  bio: Passionate about building scalable systems and sharing knowledge.
 
-# Social media
+# Social Links
 social:
   github: emonarafat
-  twitter: emontwitts
   linkedin: yaseerarafat
+  twitter: emontwitts
+  email: yaseer.arafat@live.com
 
-# Markdown processing
+# Navigation links
+nav:
+  - title: Home
+    url: /
+  - title: Blog
+    url: /blog/
+  - title: Projects
+    url: /projects/
+  - title: About
+    url: /about/
+  - title: Contact
+    url: /contact/
+
+# Build settings
 markdown: kramdown
-
-# Plugins
+highlighter: rouge
+theme: dev-blog-theme
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-titles-from-headings
+  - jekyll-paginate
 
-# Exclude from the site build
+# Pagination settings
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+# Exclude from processing
 exclude:
-  - node_modules
-  - README.md
   - Gemfile
   - Gemfile.lock
+  - node_modules
+  - vendor
 
-# Navigation (may not be supported in jekyll-theme-primer unless customized)
-# Use _includes/header.html or sidebar in custom layout if needed
-nav:
-  - Home: /
-  - Mastering CQRS with MediatR: /CQRS-MeditR-Demo
-  - Mastering CancellationToken: /Mastering_CancellationToken
-
-titles_from_headings:
-  enabled:     true
-  strip_title: false
-  collections: false
-# Optional: Google Analytics (uncomment and set your ID)
-# google_analytics: "UA-XXXXXX-X"
+# Defaults for posts
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      author: Yaseer Arafat
+      comments: true
