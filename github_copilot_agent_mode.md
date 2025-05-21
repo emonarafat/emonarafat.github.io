@@ -175,8 +175,3 @@ Whether you’re writing your first API or architecting your next enterprise sol
 
 // Add authorization to Admin endpoints
 ```
-
----
-
-## #Tags
-#GitHubCopilot #AgentMode #AIAssistedCoding #DotNet #VSCode #FutureOfWork #DevTools #CleanArchitecture
