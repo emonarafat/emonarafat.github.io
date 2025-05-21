@@ -1,5 +1,3 @@
-
-# 💫About Me :
 ## 👋 Hi there, I'm Yaseer Arafat  
 ![](https://komarev.com/ghpvc/?username=emonarafat&color=blue)![Years Badge](https://badges.pufler.dev/years/emonarafat?&style=flat&color=black&labelColor=purple) ![Repos Badge](https://badges.pufler.dev/repos/emonarafat?&style=flat&color=black&labelColor=indigo)![Commits Badge](https://badges.pufler.dev/commits/monthly/emonarafat?&style=flat&color=black&labelColor=magenta)
 
