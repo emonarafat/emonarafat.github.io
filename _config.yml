@@ -1,14 +1,11 @@
 title: Yaseer Arafat
 description: A portfolio and blog by emonarafat
+url: "https://emonarafat.github.io"
 theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-
-author:
-  name: Yaseer Arafat
-  email: yaseer.arafat@live.com
 
 social:
   github: emonarafat
@@ -25,9 +22,3 @@ markdown: kramdown
 exclude:
   - node_modules
   - README.md
-
-# Example navigation (if supported by your theme)
-nav:
-   - Home: /
-   - Mastering CQRS with MediatR: /CQRS-MeditR-Demo
-   - Mastering CancellationToken: /Mastering_CancellationToken
