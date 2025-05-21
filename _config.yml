@@ -21,6 +21,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-titles-from-headings
 
 # Exclude from the site build
 exclude:
@@ -36,5 +37,9 @@ nav:
   - Mastering CQRS with MediatR: /CQRS-MeditR-Demo
   - Mastering CancellationToken: /Mastering_CancellationToken
 
+titles_from_headings:
+  enabled:     true
+  strip_title: false
+  collections: false
 # Optional: Google Analytics (uncomment and set your ID)
 # google_analytics: "UA-XXXXXX-X"
