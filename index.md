@@ -3,28 +3,28 @@ layout: default
 title: Home
 ---
 
-# Welcome to Yaseer Arafat's Portfolio and Blog
+# 👋 Welcome to Yaseer Arafat's Portfolio
 
-## Featured Posts
+## 🌟 Featured Posts
 
 <ul>
-  {% assign featured_posts = site.posts | where: "featured", true %}
-  {% if featured_posts.size > 0 %}
-    {% for post in featured_posts %}
+  {% assign featured = site.posts | where: "featured", true %}
+  {% if featured.size > 0 %}
+    {% for post in featured %}
       <li>
         <a href="{{ post.url }}">{{ post.title }}</a>
-        <small>— {{ post.date | date: "%b %d, %Y" }}</small>
+        <br><small>{{ post.date | date: "%B %d, %Y" }}</small>
       </li>
     {% endfor %}
   {% else %}
-    <li>No featured posts available yet.</li>
+    <li>No featured posts yet.</li>
   {% endif %}
 </ul>
 
-## Latest Posts
+## 📚 Recent Posts
 
 <ul>
-  {% for post in site.posts limit:5 %}
+  {% for post in site.posts limit: 5 %}
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>

@@ -3,7 +3,6 @@
 layout: post
 title: "Mastering CancellationToken in C#"
 date: 2025-05-20 10:00:00 +0600
-categories: blog
 featured: true
 ---
 # 🚦 Mastering CancellationToken in C#
