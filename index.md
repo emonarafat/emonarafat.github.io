@@ -26,7 +26,6 @@ title: Home
   </ul>
 </section>
 
-
 <hr style="margin: 2rem auto; width: 60%;">
 
 <section style="padding: 1rem 2rem;">
