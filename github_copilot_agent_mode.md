@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: post
+title: "GitHub Copilot Agent Mode: The Future of AI-Powered Software Development"
+date: 2025-05-20 10:00:00 +0600
 ---
 # GitHub Copilot Agent Mode: The Future of AI-Powered Software Development
 
