@@ -1,6 +1,6 @@
 title: Yaseer Arafat
 description: A portfolio and blog by emonarafat
-theme: jekyll-theme-primer
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
@@ -14,6 +14,8 @@ social:
   github: emonarafat
   twitter: emontwitts
   linkedin: yaseerarafat
+  
+breadcrumbs: true  # disabled by default
 
 markdown: kramdown
 
