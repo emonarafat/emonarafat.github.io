@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Mastering CQRS with MediatR in .NET"
+date: 2025-05-21 10:00:00 +0600
+categories: blog
+featured: true
+---
+
 # Mastering CQRS with MediatR in .NET
 
 > “Separation of concerns isn’t just a principle — it’s a power tool.”
