@@ -1,4 +1,6 @@
-
+---
+layout: default
+---
 # GitHub Copilot Agent Mode: The Future of AI-Powered Software Development
 
 ## Introduction
