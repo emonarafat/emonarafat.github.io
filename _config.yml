@@ -15,10 +15,6 @@ social:
   twitter: emontwitts
   linkedin: yaseerarafat
 
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
 markdown: kramdown
 
 # google_analytics: "UA-XXXXXX-X"
