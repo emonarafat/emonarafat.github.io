@@ -1,6 +1,6 @@
 title: Yaseer Arafat
 description: A portfolio and blog by emonarafat
-theme: jekyll-theme-primer
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
