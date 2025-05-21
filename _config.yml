@@ -35,7 +35,7 @@ nav:
 # Build settings
 markdown: kramdown
 highlighter: rouge
-theme: dev-blog-theme
+theme: jekyll-theme-primer
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
